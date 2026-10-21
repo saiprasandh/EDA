@@ -1,0 +1,13 @@
+dataset,model,cv_r2_log,test_r2_log,test_r2_dollars,test_rmse,test_mae,n_train,n_test,n_features
+Ames,Linear Regression,0.8919,0.9531,0.9578,17326.0,12038.0,2340,585,88
+Ames,Ridge (alpha=10),0.903,0.956,0.9585,17182.0,11748.0,2340,585,88
+Ames,Random Forest,0.8832,0.9332,0.9325,21906.0,13726.0,2340,585,88
+Ames,Gradient Boosting,0.8911,0.9411,0.9446,19838.0,12646.0,2340,585,88
+King County,Linear Regression,0.8797,0.8797,0.6912,207264.0,78343.0,17282,4321,25
+King County,Ridge (alpha=10),0.8776,0.8783,0.6962,205558.0,79320.0,17282,4321,25
+King County,Random Forest,0.8825,0.8896,0.8577,140694.0,71752.0,17282,4321,25
+King County,Gradient Boosting,0.9062,0.9114,0.9059,114387.0,62832.0,17282,4321,25
+California,Linear Regression,0.6931,0.6907,0.5743,76205.0,48490.0,16448,4113,15
+California,Ridge (alpha=10),0.6931,0.6907,0.5743,76206.0,48496.0,16448,4113,15
+California,Random Forest,0.8258,0.8443,0.8151,50225.0,31993.0,16448,4113,15
+California,Gradient Boosting,0.8489,0.8666,0.8451,45959.0,28789.0,16448,4113,15
