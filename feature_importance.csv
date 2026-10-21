@@ -1,0 +1,129 @@
+dataset,model,feature,importance_mean,importance_std,rank
+Ames,Ridge (alpha=10),overall_qual,0.07748,0.0031,1
+Ames,Ridge (alpha=10),gr_liv_area,0.03756,0.0028,2
+Ames,Ridge (alpha=10),total_sf,0.02774,0.00237,3
+Ames,Ridge (alpha=10),1st_flr_sf,0.0186,0.00154,4
+Ames,Ridge (alpha=10),overall_cond,0.01591,0.0024,5
+Ames,Ridge (alpha=10),neighborhood,0.01473,0.002,6
+Ames,Ridge (alpha=10),2nd_flr_sf,0.01325,0.00106,7
+Ames,Ridge (alpha=10),house_age,0.00658,0.00076,8
+Ames,Ridge (alpha=10),year_built,0.00655,0.00072,9
+Ames,Ridge (alpha=10),bsmtfin_sf_1,0.00634,0.00018,10
+Ames,Ridge (alpha=10),garage_cars,0.00611,0.00056,11
+Ames,Ridge (alpha=10),functional,0.00522,0.00045,12
+Ames,Ridge (alpha=10),sale_condition,0.00498,0.00138,13
+Ames,Ridge (alpha=10),lot_area,0.00468,0.00086,14
+Ames,Ridge (alpha=10),ms_zoning,0.00445,0.00036,15
+Ames,Ridge (alpha=10),bldg_type,0.00434,0.00076,16
+Ames,Ridge (alpha=10),bsmt_exposure,0.0039,0.00015,17
+Ames,Ridge (alpha=10),total_bsmt_sf,0.00382,0.00075,18
+Ames,Ridge (alpha=10),kitchen_qual,0.00313,0.00053,19
+Ames,Ridge (alpha=10),exterior_1st,0.00278,0.00086,20
+Ames,Ridge (alpha=10),condition_1,0.00268,0.00045,21
+Ames,Ridge (alpha=10),fireplaces,0.00265,0.00055,22
+Ames,Ridge (alpha=10),garage_yr_blt,0.00233,0.00028,23
+Ames,Ridge (alpha=10),screen_porch,0.00228,0.00025,24
+Ames,Ridge (alpha=10),bsmt_qual,0.00183,8e-05,25
+Ames,Ridge (alpha=10),sale_type,0.00173,0.00041,26
+Ames,Ridge (alpha=10),exterior_2nd,0.00152,0.00042,27
+Ames,Ridge (alpha=10),lot_frontage,0.00123,0.00025,28
+Ames,Ridge (alpha=10),heating_qc,0.00119,0.00096,29
+Ames,Ridge (alpha=10),bsmtfin_type_1,0.00115,0.00045,30
+Ames,Ridge (alpha=10),foundation,0.00106,8e-05,31
+Ames,Ridge (alpha=10),total_bath,0.00104,7e-05,32
+Ames,Ridge (alpha=10),garage_area,0.001,0.00014,33
+Ames,Ridge (alpha=10),wood_deck_sf,0.00087,0.00021,34
+Ames,Ridge (alpha=10),paved_drive,0.00086,0.00014,35
+Ames,Ridge (alpha=10),ms_subclass,0.00083,0.00041,36
+Ames,Ridge (alpha=10),totrms_abvgrd,0.00082,0.0003,37
+Ames,Ridge (alpha=10),has_garage,0.00077,0.00024,38
+Ames,Ridge (alpha=10),bsmt_unf_sf,0.00069,0.00022,39
+Ames,Ridge (alpha=10),garage_type,0.00069,0.00016,40
+Ames,Ridge (alpha=10),bsmtfin_type_2,0.00066,0.00024,41
+Ames,Ridge (alpha=10),bedroom_abvgr,0.00065,0.00018,42
+Ames,Ridge (alpha=10),enclosed_porch,0.00065,0.00028,43
+Ames,Ridge (alpha=10),mas_vnr_type,0.00064,4e-05,44
+Ames,Ridge (alpha=10),years_since_remodel,0.00063,0.00021,45
+Ames,Ridge (alpha=10),year_remod_add,0.00062,0.00019,46
+Ames,Ridge (alpha=10),exter_qual,0.0006,0.00028,47
+Ames,Ridge (alpha=10),full_bath,0.00049,0.00012,48
+Ames,Ridge (alpha=10),bsmt_cond,0.00045,0.00017,49
+Ames,Ridge (alpha=10),open_porch_sf,0.00043,4e-05,50
+Ames,Ridge (alpha=10),half_bath,0.00039,3e-05,51
+Ames,Ridge (alpha=10),bsmt_full_bath,0.00037,3e-05,52
+Ames,Ridge (alpha=10),exter_cond,0.00037,0.00056,53
+Ames,Ridge (alpha=10),lot_config,0.00033,0.00021,54
+Ames,Ridge (alpha=10),garage_cond,0.00028,0.00015,55
+Ames,Ridge (alpha=10),mas_vnr_area,0.00025,1e-05,56
+Ames,Ridge (alpha=10),kitchen_abvgr,0.00016,0.00011,57
+Ames,Ridge (alpha=10),roof_matl,0.00015,7e-05,58
+Ames,Ridge (alpha=10),low_qual_fin_sf,0.00015,0.00011,59
+Ames,Ridge (alpha=10),3ssn_porch,0.00014,3e-05,60
+Ames,Ridge (alpha=10),central_air,0.0001,0.00016,61
+Ames,Ridge (alpha=10),alley,6e-05,0.00012,62
+Ames,Ridge (alpha=10),misc_feature,6e-05,6e-05,63
+Ames,Ridge (alpha=10),bsmt_half_bath,4e-05,3e-05,64
+Ames,Ridge (alpha=10),condition_2,4e-05,3e-05,65
+Ames,Ridge (alpha=10),land_slope,3e-05,0.00013,66
+Ames,Ridge (alpha=10),has_pool,1e-05,1e-05,67
+Ames,Ridge (alpha=10),lot_frontage_missing,1e-05,6e-05,68
+Ames,Ridge (alpha=10),street,1e-05,0.00032,69
+Ames,Ridge (alpha=10),pool_area,1e-05,0.0,70
+Ames,Ridge (alpha=10),pool_qc,0.0,0.0,71
+Ames,Ridge (alpha=10),utilities,0.0,0.0,72
+Ames,Ridge (alpha=10),misc_val,-2e-05,2e-05,73
+Ames,Ridge (alpha=10),land_contour,-4e-05,0.00034,74
+Ames,Ridge (alpha=10),has_fireplace,-5e-05,2e-05,75
+Ames,Ridge (alpha=10),house_style,-5e-05,0.00015,76
+Ames,Ridge (alpha=10),roof_style,-5e-05,0.00024,77
+Ames,Ridge (alpha=10),bsmtfin_sf_2,-6e-05,0.00039,78
+Ames,Ridge (alpha=10),electrical,-7e-05,1e-05,79
+Ames,Ridge (alpha=10),fence,-7e-05,6e-05,80
+Ames,Ridge (alpha=10),mo_sold,-0.0001,2e-05,81
+Ames,Ridge (alpha=10),fireplace_qu,-0.00012,2e-05,82
+Ames,Ridge (alpha=10),lot_shape,-0.00015,4e-05,83
+Ames,Ridge (alpha=10),garage_finish,-0.00017,0.00016,84
+Ames,Ridge (alpha=10),has_basement,-0.0002,0.00021,85
+Ames,Ridge (alpha=10),yr_sold,-0.00027,0.00014,86
+Ames,Ridge (alpha=10),garage_qual,-0.0003,0.00027,87
+Ames,Ridge (alpha=10),heating,-0.00049,0.00027,88
+King County,Gradient Boosting,lat,0.61476,0.01423,1
+King County,Gradient Boosting,sqft_living,0.17878,0.0017,2
+King County,Gradient Boosting,grade,0.12941,0.00342,3
+King County,Gradient Boosting,long,0.06305,0.00198,4
+King County,Gradient Boosting,sqft_lot,0.03271,0.0003,5
+King County,Gradient Boosting,zipcode,0.01489,0.00026,6
+King County,Gradient Boosting,sqft_living15,0.01472,0.00088,7
+King County,Gradient Boosting,view,0.01412,0.00034,8
+King County,Gradient Boosting,condition,0.01077,0.00025,9
+King County,Gradient Boosting,sale_year,0.01035,0.00012,10
+King County,Gradient Boosting,years_since_reno,0.0083,0.00043,11
+King County,Gradient Boosting,waterfront,0.00676,0.00028,12
+King County,Gradient Boosting,sqft_above,0.00457,0.00032,13
+King County,Gradient Boosting,bathrooms,0.00311,0.00023,14
+King County,Gradient Boosting,repeat_sale,0.00308,0.00026,15
+King County,Gradient Boosting,house_age,0.00294,0.00029,16
+King County,Gradient Boosting,yr_built,0.00293,0.00013,17
+King County,Gradient Boosting,sqft_lot15,0.00275,0.00013,18
+King County,Gradient Boosting,sale_month,0.00207,0.00033,19
+King County,Gradient Boosting,sqft_basement,0.0013,0.00044,20
+King County,Gradient Boosting,bedrooms,0.00034,0.00043,21
+King County,Gradient Boosting,yr_renovated,0.00033,0.00018,22
+King County,Gradient Boosting,floors,4e-05,0.0001,23
+King County,Gradient Boosting,renovated,0.0,0.0,24
+King County,Gradient Boosting,has_basement,0.0,0.0,25
+California,Gradient Boosting,latitude,0.48386,0.00837,1
+California,Gradient Boosting,longitude,0.39635,0.00341,2
+California,Gradient Boosting,median_income,0.31056,0.00731,3
+California,Gradient Boosting,ocean_proximity,0.17832,0.00701,4
+California,Gradient Boosting,population_per_household,0.10068,0.00171,5
+California,Gradient Boosting,bedrooms_per_room,0.02657,0.00169,6
+California,Gradient Boosting,housing_median_age,0.02608,0.00059,7
+California,Gradient Boosting,rooms_per_household,0.02404,0.00085,8
+California,Gradient Boosting,households,0.00158,0.00033,9
+California,Gradient Boosting,total_bedrooms,0.00137,0.00032,10
+California,Gradient Boosting,total_rooms,0.00123,5e-05,11
+California,Gradient Boosting,population,0.00034,0.00013,12
+California,Gradient Boosting,total_bedrooms_missing,1e-05,0.0,13
+California,Gradient Boosting,age_capped,0.0,0.0,14
+California,Gradient Boosting,income_capped,0.0,0.0,15
